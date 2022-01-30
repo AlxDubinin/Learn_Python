@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('Start learning Python...')
     print('-- Chapter I --')
+    print('Переменные и типы данных - файл Learn_01_01.py')
+
 
 
 # Press the green button in the gutter to run the script.
